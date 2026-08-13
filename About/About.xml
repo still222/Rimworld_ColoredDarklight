@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>StK Colored Darklights</name>
+	<author>stk</author>
+    <modVersion>v1.0.2</modVersion>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>stk.colored.darklights</packageId>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+	<description>Most over-saturated colors are now considered Darklight.
+
+As long as the color's saturation is equal to or higher than 85,
+that color will be considered darklight by the game logic.
+
+Does not include really warm orange/yellowish colors.
+Vanilla blue darklight stays at the same saturation level as before (>50).</description>
+</ModMetaData>
